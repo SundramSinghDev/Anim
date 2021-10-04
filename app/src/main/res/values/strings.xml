@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroidAnimation</string>
+    <string name="sample_animation">Sample Animation</string>
+    <string name="fade_in">Fade In</string>
+    <string name="fade_out">Fade Out</string>
+    <string name="blinking">Blinking</string>
+    <string name="zoom_in">Zoom In</string>
+    <string name="zoom_out">Zoom Out</string>
+    <string name="rotate">Rotate</string>
+    <string name="move">Move</string>
+    <string name="slide_up">Slide Up</string>
+    <string name="slide_down">Slide Down</string>
+    <string name="bounce">Bounce</string>
+    <string name="sequential">Sequential</string>
+</resources>
